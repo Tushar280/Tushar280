@@ -1,50 +1,51 @@
-# 🌌 Hey there, I'm Tushar!
+# 🎮 Hey, I'm Tushar!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Android%20%7C%20Unity%20%7C%20Data-0f172a?style=for-the-badge&logoColor=fff&labelColor=2dd4bf" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logoColor=fff&labelColor=a78bfa" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Persona-Game%20Developer%20%7C%20Interactive%20Systems-0f172a?style=for-the-badge&logoColor=fff&labelColor=ff4757" alt="Persona Badge" />
+  <img src="https://img.shields.io/badge/Engine-Unity%203D-0f172a?style=for-the-badge&logoColor=fff&labelColor=2dd4bf" alt="Engine Badge" />
+  <img src="https://img.shields.io/badge/Graphics-ShaderLab-0f172a?style=for-the-badge&logoColor=fff&labelColor=a78bfa" alt="Graphics Badge" />
 </p>
 
-I am a highly versatile software developer building at the intersection of **Artificial Intelligence**, **Mobile Engineering (Android)**, **Game Development**, and **Data Visualization**. I thrive on translating complex ideas—whether they are computer vision models, gaming shaders, or LLM-based intelligent agents—into smooth, highly polished, and functional digital experiences.
+I am a **Game Developer and Interactive Systems Engineer** focused on creating immersive real-time experiences, clean gameplay architectures, and customized rendering pipelines. By blending standard **Unity & C# development** with **custom ShaderLab graphics**, native **Android systems**, and **Computer Vision (AI)**, I build interactive software that feels alive, reactive, and highly polished.
 
 ---
 
-## 🛠️ Core Specializations
+## 🛠️ Game Dev & Engineering Specializations
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Artificial Intelligence & Vision</h3>
+      <h3>🕹️ Gameplay & Real-Time Physics</h3>
       <ul>
-        <li><b>Retrieval-Augmented Generation (RAG):</b> Building context-aware intelligent document query engines.</li>
-        <li><b>Computer Vision:</b> Real-time video stream analysis and human state classification (e.g., driver drowsiness).</li>
-        <li><b>Technologies:</b> Python, OpenCV, TensorFlow/Keras, LLMs, Vector DBs.</li>
+        <li><b>Mechanics Architecture:</b> Developing clean, decoupled player controls, camera behaviors, and event-driven game loops in C#.</li>
+        <li><b>Interactive Sandbox:</b> Coding rigid-body physics interactions, triggers, and state management.</li>
+        <li><b>Engine of Choice:</b> Unity 3D (MonoBehaviour lifecycles, scriptable objects, custom inputs).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Engineering</h3>
+      <h3>🎨 Custom Shaders & Graphics</h3>
       <ul>
-        <li><b>Native Android:</b> Architecting modern, high-performance, and responsive native applications.</li>
-        <li><b>Clean Architecture:</b> Implementing robust, testable, and clean structures using reactive patterns.</li>
-        <li><b>Technologies:</b> Kotlin, Android SDK, Jetpack Compose, Coroutines.</li>
+        <li><b>Material Rendering:</b> Writing custom ShaderLab scripts to control material parameters, blending, and texture mapping.</li>
+        <li><b>Rendering Pipelines:</b> Exploring lighting properties, particle systems, and post-processing stacks.</li>
+        <li><b>Technologies:</b> ShaderLab, HLSL/GLSL, Universal Render Pipeline (URP).</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Interactive & Game Development</h3>
+      <h3>👁️ Camera-Driven Mechanics (AI)</h3>
       <ul>
-        <li><b>Real-time Graphics:</b> Writing custom HLSL/ShaderLab scripts and material rendering logic in Unity.</li>
-        <li><b>Gameplay Engineering:</b> Developing mechanics, physics loops, and smooth control structures.</li>
-        <li><b>Technologies:</b> Unity 3D, C#, ShaderLab.</li>
+        <li><b>Eye-Tracking Control:</b> Applying computer vision models (facial landmarks, gaze indicators) to gameplay loops.</li>
+        <li><b>Biometric Inputs:</b> Converting eye blink states and drowsiness indicators into hardware alerts or interactive game triggers.</li>
+        <li><b>Technologies:</b> OpenCV, Python, TensorFlow, Keras.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Data & Sustainability</h3>
+      <h3>📱 Mobile Game Systems</h3>
       <ul>
-        <li><b>Dynamic Dashboards:</b> Creating beautiful visual data hubs to track metrics and KPIs.</li>
-        <li><b>Sustainability Tech:</b> Modeling and presenting environmental impact and carbon metrics cleanly.</li>
-        <li><b>Technologies:</b> Python, Streamlit/Dash, Pandas, Data Visualization.</li>
+        <li><b>Android Engineering:</b> Porting active systems to high-performance native Android platforms.</li>
+        <li><b>Resource Management:</b> Balancing camera sensors, background threads, and UI responsiveness.</li>
+        <li><b>Technologies:</b> Kotlin, Android SDK, Android Studio.</li>
       </ul>
     </td>
   </tr>
@@ -54,57 +55,41 @@ I am a highly versatile software developer building at the intersection of **Art
 
 ## 🚀 Featured Repositories
 
-Here is a curated selection of repositories demonstrating my technical breadth:
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/pdf-rag-app">🤖 pdf-rag-app</a></h4>
-      <p><i>A smart PDF query application using Retrieval-Augmented Generation (RAG) to instantly extract accurate insights from dense documents.</i></p>
+      <h4><a href="https://github.com/Tushar280/1stGame">🎮 1stGame</a></h4>
+      <p><i>My primary Unity repository showcasing gameplay loops, custom physics controllers, and specialized rendering techniques built via custom ShaderLab code.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tech-LLMs%20%7C%20RAG-2dd4bf?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-ShaderLab-224c55?style=flat-square" alt="ShaderLab" />
+        <img src="https://img.shields.io/badge/Engine-Unity%203D-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Focus-Graphics-a78bfa?style=flat-square" alt="Graphics" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Tushar280/DrowsinessDetectorAPP">📱 DrowsinessDetectorAPP</a></h4>
-      <p><i>A sleek, native Android application engineered to monitor and detect signs of user fatigue in real-time, boosting safety.</i></p>
+      <p><i>A native Android application integrating camera feedback loops, eye-tracking triggers, and real-time audio safety nodes in a responsive environment.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Platform-Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Tushar280/Drowsiness-Detection-System">🧠 Drowsiness-Detection-System</a></h4>
-      <p><i>The core machine learning & computer vision engine that tracks facial landmarks, eye aspect ratios, and warns of microsleeps.</i></p>
+      <p><i>A computer vision tracker calculating eye aspect ratios (EAR) and facial parameters—providing a template for gaze-controlled game design.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Focus-Computer%20Vision-ff6b6b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Focus-Computer%20Vision-ff4757?style=flat-square" alt="CV" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/sustanaibility_dashboard">📊 sustanaibility_dashboard</a></h4>
-      <p><i>An interactive dashboard for measuring, visualizing, and driving actionable insights for environmental metrics.</i></p>
+      <h4><a href="https://github.com/Tushar280/pdf-rag-app">🤖 pdf-rag-app</a></h4>
+      <p><i>A RAG document query application leveraging vector indices—useful for instantly searching and parsing complex game manual guidelines and lore docs.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Viz-00d2ff?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/1stGame">🎮 1stGame</a></h4>
-      <p><i>My entry point into interactive real-time 3D, exploring custom render configurations, physics mechanics, and Unity ShaderLab.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-ShaderLab-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="bottom">
-      <p align="center">
-        <b>💡 Check out my other work in my <a href="https://github.com/Tushar280?tab=repositories">repositories list</a>!</b>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI-LangChain%20%7C%20RAG-2dd4bf?style=flat-square" alt="RAG" />
       </p>
     </td>
   </tr>
@@ -114,35 +99,62 @@ Here is a curated selection of repositories demonstrating my technical breadth:
 
 ## ⚡ Tech Stack & Tools
 
-```javascript
-const developer = {
-  languages: ["Python", "Kotlin", "C#", "ShaderLab", "C++", "SQL", "HTML/CSS/JS"],
-  aiVision:  ["OpenCV", "TensorFlow", "Keras", "LangChain", "Vector DBs", "RAG Pipeline"],
-  mobileDev: ["Android SDK", "Jetpack Compose", "Coroutines", "Room Database"],
-  gameEngines: ["Unity 3D", "Universal Render Pipeline (URP)"],
-  tools:     ["Git & GitHub", "VS Code", "Android Studio", "PyCharm", "Jupyter Notebook"]
-};
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎮 Game Engines & Graphics</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/ShaderLab-224c55?style=flat-square" alt="ShaderLab" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/HLSL_%2F_GLSL-00599C?style=flat-square" alt="Shaders" />
+      </p>
+      <h4>📱 Mobile Systems</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/XML-gray?style=flat-square" alt="XML" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Interactive AI & Vision</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+      </p>
+      <h4>🛠️ IDEs & Collaboration</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="AndroidStudio" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=ff4757&icon_color=2dd4bf&text_color=94a3b8" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=2dd4bf&text_color=94a3b8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=ff4757&text_color=94a3b8" height="150" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-* **GitHub:** [github.com/Tushar280](https://github.com/Tushar280)
-* **Interactive Portfolio:** *Running locally in your sandbox at C:\Users\Tushar\.gemini\antigravity\scratch\github-portfolio\index.html!*
+* **GitHub Profile:** [github.com/Tushar280](https://github.com/Tushar280)
+* **Interactive Sandbox Hub:** *Located at C:\Users\Tushar\.gemini\antigravity\scratch\github-portfolio\index.html*
 
 <p align="left">
   <a href="https://github.com/Tushar280">
-    <img src="https://img.shields.io/badge/Follow-@Tushar280-0f172a?style=for-the-badge&logo=github&logoColor=fff&labelColor=2dd4bf" />
+    <img src="https://img.shields.io/badge/Follow_On_GitHub-@Tushar280-0f172a?style=for-the-badge&logo=github&logoColor=fff&labelColor=ff4757" alt="Follow Badge" />
   </a>
 </p>
