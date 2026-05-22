@@ -8,6 +8,8 @@
 
 I am a **Game Developer and Interactive Systems Engineer** focused on creating immersive real-time experiences, clean gameplay architectures, and customized rendering pipelines. By blending standard **Unity & C# development** with **custom ShaderLab graphics**, native **Android systems**, and **Computer Vision (AI)**, I build interactive software that feels alive, reactive, and highly polished.
 
+Beyond game engineering, I am deeply engaged in high-production **creative media and visual arts**—leveraging **DaVinci Resolve** and **Adobe Premiere Pro** for professional video editing, combined with graphic retouching, UI styling, and texture layout design in **Adobe Photoshop**, and capturing moments through **photography** (shared on my Instagram [@plutoski.i](https://www.instagram.com/plutoski.i/)).
+
 ---
 
 ## 🛠️ Game Dev & Engineering Specializations
@@ -125,7 +127,7 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
       </p>
-      <h4>🛠️ IDEs & Collaboration</h4>
+      <h4>🛠️ IDEs & Workspace</h4>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -134,24 +136,27 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🎬 Creative Production & Visual Arts</h4>
+      <p>
+        <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white" alt="DaVinci" />
+        <img src="https://img.shields.io/badge/Premiere_Pro-300065?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Premiere" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+        <img src="https://img.shields.io/badge/Photography-0f172a?style=flat-square" alt="Photography" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      </p>
+    </td>
+  </tr>
 </table>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=ff4757&icon_color=2dd4bf&text_color=94a3b8" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=ff4757&text_color=94a3b8" height="150" alt="Top Languages" />
-</p>
 
 ---
 
 ## 📫 Let's Connect!
 
-* **GitHub Profile:** [github.com/Tushar280](https://github.com/Tushar280)
-* **Interactive Sandbox Hub:** *Located at C:\Users\Tushar\.gemini\antigravity\scratch\github-portfolio\index.html*
+* **GitHub:** [github.com/Tushar280](https://github.com/Tushar280)
+* **Email:** [chaudarytushar280@gmail.com](mailto:chaudarytushar280@gmail.com)
+* **Instagram:** [@plutoski.i](https://www.instagram.com/plutoski.i/)
 
 <p align="left">
   <a href="https://github.com/Tushar280">
