@@ -1,8 +1,8 @@
 # 🎮 Hey, I'm Tushar!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Persona-Game%20Developer%20%7C%20Interactive%20Systems-0f172a?style=for-the-badge&logoColor=fff&labelColor=ff4757" alt="Persona Badge" />
-  <img src="https://img.shields.io/badge/Engine-Unity%203D-0f172a?style=for-the-badge&logoColor=fff&labelColor=2dd4bf" alt="Engine Badge" />
+  <img src="https://img.shields.io/badge/PERSONA-GAME%20DEVELOPER%20%7C%20INTERACTIVE%20SYSTEMS-FF2D55?style=flat-square&labelColor=222222" alt="Persona" />
+  <img src="https://img.shields.io/badge/ENGINE-UNITY%203D-00D2B4?style=flat-square&labelColor=222222" alt="Engine" />
 </p>
 
 I am a **Game Developer and Interactive Systems Engineer** focused on creating immersive real-time experiences, clean gameplay architectures, and customized rendering pipelines using **Unity & C#**, as well as integrating native **Android systems** and **Computer Vision (AI)**. I am highly adaptable, always willing to learn new technologies, and eager to iterate on my workflows.
@@ -14,37 +14,41 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://tushar280.itch.io/roll-a-ball">🕹️ Roll-a-Ball</a></h4>
-      <p><i>My latest 3D game release on <a href="https://tushar280.itch.io/">itch.io</a>! It is a beginner-friendly interactive physics game where you navigate through a level to collect cubes and win the game. Available to download for Windows.</i></p>
+      <h3>🌌 <a href="https://tushar280.itch.io/space-run">Space Run</a></h3>
+      <p><em>An action-packed 3D endless runner! Sprint down procedurally generated paths with randomized lanes, dodge dynamic fence barriers, and collect coins to push your high score to the limit.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Engine-Unity%203D-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <a href="https://tushar280.itch.io/space-run"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
+        <a href="https://tushar280.itch.io/space-run"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
+        <a href="https://tushar280.itch.io/space-run"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/DrowsinessDetectorAPP">📱 DrowsinessDetectorAPP</a></h4>
-      <p><i>A native Android application integrating camera feedback loops, eye-tracking triggers, and real-time audio safety nodes in a responsive environment.</i></p>
+      <h3>🚀 <a href="https://tushar280.itch.io/rocket-boost">Rocket Boost</a></h3>
+      <p><em>Take command of a high-thrust rocket and navigate hazardous alien worlds! Master responsive physics-driven flight mechanics and complete planetary missions across the galaxy.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Platform-Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <a href="https://tushar280.itch.io/rocket-boost"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
+        <a href="https://tushar280.itch.io/rocket-boost"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
+        <a href="https://tushar280.itch.io/rocket-boost"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/Drowsiness-Detection-System">🧠 Drowsiness-Detection-System</a></h4>
-      <p><i>A computer vision tracker calculating eye aspect ratios (EAR) and facial parameters—providing a template for gaze-controlled game design.</i></p>
+      <h3>🛡️ <a href="https://tushar280.itch.io/obstacle-dodge">Obstacle-Dodge</a></h3>
+      <p><em>A fun physics-based obstacle course featuring smooth cube controller mechanics, real-time score tracking, dynamic win/loss feedback, and seamless game state loops.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Focus-Computer%20Vision-ff4757?style=flat-square" alt="CV" />
+        <a href="https://tushar280.itch.io/obstacle-dodge"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
+        <a href="https://tushar280.itch.io/obstacle-dodge"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
+        <a href="https://tushar280.itch.io/obstacle-dodge"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/pdf-rag-app">🤖 pdf-rag-app</a></h4>
-      <p><i>A RAG document query application leveraging vector indices—useful for instantly searching and parsing complex game manual guidelines and lore docs.</i></p>
+      <h3>🔮 <a href="https://tushar280.itch.io/roll-a-ball">Roll-a-Ball</a></h3>
+      <p><em>A beginner-friendly interactive 3D physics game where you navigate through an obstacle-filled level to collect pickup cubes, track score, and win the game.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AI-LangChain%20%7C%20RAG-2dd4bf?style=flat-square" alt="RAG" />
+        <a href="https://tushar280.itch.io/roll-a-ball"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
+        <a href="https://tushar280.itch.io/roll-a-ball"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
+        <a href="https://tushar280.itch.io/roll-a-ball"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
       </p>
     </td>
   </tr>
@@ -61,15 +65,17 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Let's Connect!
 
-* **Latest Game:** [Roll-a-Ball on Itch.io](https://tushar280.itch.io/roll-a-ball)
+* **Itch.io Games:** [tushar280.itch.io](https://tushar280.itch.io/)
 * **GitHub:** [github.com/Tushar280](https://github.com/Tushar280)
-* **Instagram:** [@tw0sharr](https://www.instagram.com/tw0sharr/)
-* **Email:** [chaudarytushar280@gmail.com](mailto:chaudarytushar280@gmail.com)
+* **Instagram:** [@tw0sharr](https://instagram.com/tw0sharr)
+* **Email:** chaudarytushar280@gmail.com
+
+<br>
 
 <p align="left">
   <a href="https://github.com/Tushar280">
-    <img src="https://img.shields.io/badge/Follow_On_GitHub-@Tushar280-0f172a?style=for-the-badge&logo=github&logoColor=fff&labelColor=ff4757" alt="Follow Badge" />
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-@TUSHAR280-FF2D55?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
