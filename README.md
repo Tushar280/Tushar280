@@ -58,7 +58,7 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
 
 ## ⚡ Tech Stack & Tools
 
-* **Game Engines & Graphics:** Unity 3D, C#, ShaderLab, HLSL/GLSL
+* **Game Engines & Graphics:** Unity 3D, C#, Blender
 * **Mobile Systems:** Kotlin, Android SDK
 * **Interactive AI & Vision:** Python, OpenCV, TensorFlow, Keras, LangChain
 * **Workspace:** Git, GitHub, VS Code, Android Studio
