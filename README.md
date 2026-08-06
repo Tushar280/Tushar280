@@ -68,7 +68,6 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
 ## 📬 Let's Connect!
 
 * **Itch.io Games:** [tushar280.itch.io](https://tushar280.itch.io/)
-* **GitHub:** [github.com/Tushar280](https://github.com/Tushar280)
 * **Instagram:** [@tw0sharr](https://instagram.com/tw0sharr)
 * **Email:** chaudarytushar280@gmail.com
 
