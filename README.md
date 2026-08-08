@@ -25,6 +25,17 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🔫 <a href="https://github.com/Tushar280/SharpShooter">SharpShooter</a>  <img src="https://img.shields.io/badge/🚧-IN_DEV-FF6B35?style=flat-square" alt="In Development" /></h3>
+      <p><em>A first-person shooter built from the ground up — featuring raycast-based gunplay, a multi-weapon arsenal (Pistol, Rifle & Sniper) powered by ScriptableObject data, ADS zoom mechanics, NavMesh-driven enemy AI, ammo & health management with HUD, and a pickup system for weapons and supplies on the battlefield.</em></p>
+      <p>
+        <a href="https://github.com/Tushar280/SharpShooter"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
+        <a href="https://github.com/Tushar280/SharpShooter"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
+        <a href="https://github.com/Tushar280/SharpShooter"><img src="https://img.shields.io/badge/Status-In_Development-FF6B35?style=flat-square&logo=github" alt="In Development" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌌 <a href="https://tushar280.itch.io/space-run">Space Run</a></h3>
       <p><em>An action-packed 3D endless runner! Sprint down procedurally generated paths with randomized lanes, dodge dynamic fence barriers, and collect coins to push your high score to the limit.</em></p>
