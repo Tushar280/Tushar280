@@ -14,18 +14,20 @@ I am a **Game Developer and Interactive Systems Engineer** focused on creating i
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛸 <a href="https://tushar280.itch.io/galaxy-strike">Galaxy Strike</a></h3>
+      <h3>🛸 <a href="https://tushar280.itch.io/galaxy-strike">Galaxy Strike</a> <img src="https://img.shields.io/badge/-NEW!-FF0055?style=flat-square&labelColor=111111" alt="NEW" /></h3>
       <p><em>A fast-paced 3D arcade rail shooter — pilot your starfighter through hostile airspace, lock onto enemy squadrons with precision crosshairs, and unleash twin laser cannons to rack up combos.</em></p>
       <p>
+        <a href="https://tushar280.itch.io/galaxy-strike"><img src="https://img.shields.io/badge/Status-NEW!-FF0055?style=flat-square" alt="NEW" /></a>
         <a href="https://tushar280.itch.io/galaxy-strike"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
         <a href="https://tushar280.itch.io/galaxy-strike"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" /></a>
         <a href="https://tushar280.itch.io/galaxy-strike"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔫 <a href="https://tushar280.itch.io/sharpshooter">SharpShooter</a></h3>
+      <h3>🔫 <a href="https://tushar280.itch.io/sharpshooter">SharpShooter</a> <img src="https://img.shields.io/badge/-NEW!-FF0055?style=flat-square&labelColor=111111" alt="NEW" /></h3>
       <p><em>A first-person shooter built from the ground up featuring raycast gunplay, multi-weapon ScriptableObject arsenal, ADS mechanics, NavMesh enemy AI, HUD health/ammo, and pickups.</em></p>
       <p>
+        <a href="https://tushar280.itch.io/sharpshooter"><img src="https://img.shields.io/badge/Status-NEW!-FF0055?style=flat-square" alt="NEW" /></a>
         <a href="https://tushar280.itch.io/sharpshooter"><img src="https://img.shields.io/badge/Engine-Unity_3D-111111?style=flat-square&logo=unity" alt="Unity" /></a>
         <a href="https://tushar280.itch.io/sharpshooter"><img src="https://img.shields.io/badge/Itch.io-Play_Now-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
         <a href="https://github.com/Tushar280/SharpShooter"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
