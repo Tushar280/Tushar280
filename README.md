@@ -87,12 +87,11 @@ Beyond game engineering, I am deeply engaged in high-production **creative media
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tushar280/SharpShooter">🎯 SharpShooter</a></h4>
-      <p><i>A 3D FPS featuring NavMesh AI pathfinding, multi-weapon scriptable objects, raycast shooting mechanics, and dynamic Canvas UI systems.</i></p>
+      <h4><a href="https://github.com/Tushar280/pdf-rag-app">🤖 pdf-rag-app</a></h4>
+      <p><i>A RAG document query application leveraging vector indices—useful for instantly searching and parsing complex game manual guidelines and lore docs.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Engine-Unity%203D-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/Play-Itch.io-fa5c5c?style=flat-square" alt="Itch.io" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI-LangChain%20%7C%20RAG-2dd4bf?style=flat-square" alt="RAG" />
       </p>
     </td>
   </tr>
